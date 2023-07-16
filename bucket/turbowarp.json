@@ -1,6 +1,6 @@
 {
     "version": "1.8.1",
-    "description": "Fast, secure, easy-to-use browser.",
+    "description": "Turbowarp",
     "homepage": "https://turbowarp.org/",
     "license": {
         "identifier": "MIT",
@@ -12,10 +12,9 @@
             "hash": "86f22d26e92efae2aae423f3b2fcfdc903784b4ce71c8bbc9d134a6ba975e873"
         }
     },
-    "installer": {
-        "script": [
-        ]
-    },
+    "bin":[
+        "turbowarp.exe"
+    ],
     "shortcuts": [
         [
             "TurboWarp.exe",
