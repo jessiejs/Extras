@@ -9,11 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download1.operacdn.com/pub/opera/desktop/100.0.4815.54/win/Opera_100.0.4815.54_Setup_x64.exe#/dl.7z",
-            "hash": "6e4b336edb2c074b76d4307bf9c15dea33fa14db6c3fd052412a8fc6d7f499e1"
-        },
-        "32bit": {
-            "url": "https://download1.operacdn.com/pub/opera/desktop/100.0.4815.54/win/Opera_100.0.4815.54_Setup.exe#/dl.7z",
-            "hash": "a1980aa1077ab916cbddd93e2db4156b9dacf8b9f33d514247ae10ac01698528"
+            "hash": "dd95bef9bb4a91d52e5859aa571de9a636d8259c7c3440488766bbb5b75fe2c3"
         }
     },
     "installer": {
