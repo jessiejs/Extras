@@ -6,12 +6,8 @@
         "identifier": "MIT",
         "url": "https://github.com/TurboWarp"
     },
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/TurboWarp/desktop/releases/download/v1.8.1/TurboWarp-Setup-1.8.1-x64.exe#/$PLUGINSDIR/app-64.7z",
-            "hash": "86f22d26e92efae2aae423f3b2fcfdc903784b4ce71c8bbc9d134a6ba975e873"
-        }
-    },
+    "url": "https://github.com/TurboWarp/desktop/releases/download/v1.8.1/TurboWarp-Setup-1.8.1-x64.exe#/$PLUGINSDIR/app-64.7z",
+    "hash": "86f22d26e92efae2aae423f3b2fcfdc903784b4ce71c8bbc9d134a6ba975e873",
     "bin":[
         "TurboWarp.exe"
     ],
