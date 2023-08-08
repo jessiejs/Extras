@@ -1,0 +1,12 @@
+// https://launcher-files.modrinth.com/versions/0.2.2/windows/Modrinth%20App_0.2.2_x64_en-US.msi
+{
+    "version": "0.2.2",
+    "homepage": "https://modrinth.com",
+    "url": "https://launcher-files.modrinth.com/versions/0.4.0/windows/Modrinth%20App_0.4.0_x64_en-US.msi#/SourceDir/PFiles/Modrinth App",
+    "shortcuts": [
+        [
+            "Modrinth App.exe",
+            "Modrinth"
+        ]
+    ]
+}
